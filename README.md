@@ -7,6 +7,7 @@ This project demonstrates an end-to-end Data Analytics workflow, starting from r
 It showcases both:
 
 🏗️ Data Engineering (ETL, schema design)
+
 📈 Data Analysis (SQL queries, KPIs, insights)
 
 🧱 Architecture
@@ -38,5 +39,7 @@ Insights are generated for decision-making
 💡 What I Learned
 
 Designing a scalable Data Warehouse
+
 Writing efficient SQL queries for analysis
+
 Translating data into meaningful business insights
